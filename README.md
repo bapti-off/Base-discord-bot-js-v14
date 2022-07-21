@@ -75,7 +75,7 @@ If you are using [replit](https://replit.com/) you can remove `require('dotenv')
 
 ---
 ## Made by bapti.off (! bapti.off#4477)
-These command handlers are made by Nathaniel (! bapti.off#4477)
+These command handlers are made by bapti.off (! bapti.off#4477)
 
 **⭐ Remember to star the repository if you like it! ⭐**
 
