@@ -15,10 +15,7 @@ module.exports = {
                     .setTitle(`Projet {Engin}`)
                     .setThumbnail("https://i.imgur.com/PGSEC0S.png")
                     .setDescription(' Voici la liste complète des commandes disponible ').addFields([
-					    { name: '<:info:998897408475926558>・Informations', value: '`/help` ➜ Affiche la liste des commandes\n`/ping` ➜ Répond pong\n`/invite` ➜ Obtenir le lien d\'invitation du bot' },
-					    { name: '<:fun:998897108964872283>・Fun', value: '`/cry` ➜ Envoi un gif qui pleur\n`/kiss` ➜ Embrasse une personne\n`/slap` ➜ Giffle une personne\n`/smile` ➜ Envoi un gif qui sourie' },
-					    { name: '<:moderator:998623766672310393>・Modération', value: '`/role` ➜ Permet d\'ajouter un rôle a un membre' },
-                        { name: '<:fun:998897108964872283>・Jeux', value: '`/8ball` ➜ Pose une question à la boule magique'}
+					    { name: '<:info:998897408475926558>・Informations', value: '`/help` ➜ Affiche la liste des commandes\n`/ping` ➜ Répond pong' }
 					])
                 
                 const INVITE = new ActionRowBuilder()
